@@ -1,0 +1,48 @@
+[
+    {
+      "id":"1",
+      "Roll No": "101",
+      "Class": "I",
+      "Section": "A",
+      "Name": "Mahendran",
+      "Marks": "450",
+      "Grade": "A"
+    },
+    {
+      "id":"2",
+      "Roll No": "102",
+      "Class": "I",
+      "Section": "A",
+      "Name": "Kowshika",
+      "Marks": "470",
+      "Grade": "A+"
+    },
+    {
+      "id":"3",
+      "Roll No": "103",
+      "Class": "I",
+      "Section": "A",
+      "Name": "Ramar",
+      "Marks": "480",
+      "Grade": "A+"
+    },
+    {
+      "id":"4",
+      "Roll No": "104",
+      "Class": "I",
+      "Section": "A",
+      "Name": "Vaishnavi",
+      "Marks": "440",
+      "Grade": "A"
+    },
+    {
+      "id":"5",
+      "Roll No": "105",
+      "Class": "I",
+      "Section": "A",
+      "Name": "Gugan",
+      "Marks": "420",
+      "Grade": "A"
+    }
+  ]
+  
